@@ -5,3 +5,11 @@ In this project, we will apply unsupervised learning techniques to identify segm
 
 # Requirements:
 Python 3.x
+
+### Files : 
+
+1. Identify_Customer_Segments.html : This is the html screenshot of the jupyter notebook used and is an alternative for going through the code.
+
+2. Identify_Customer_Segments.ipynb : This is the Jupyter notebook in which all the work has been done. 
+
+Note: *The data is not provided as the data I used was private and I was legally obliged to delete the data in 2 weeks from the completion of this project.*
